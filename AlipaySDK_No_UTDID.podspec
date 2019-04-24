@@ -79,7 +79,7 @@ Pod::Spec.new do |s|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "https://github.com/ssuperdreamer/AlipaySDK_No_UTDID.git", :tag => "#{s.version}" }
+  s.source       = { :git => "https://github.com/ssuperdreamer/AlipaySDK_Without_UTDID", :tag => "#{s.version}" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
