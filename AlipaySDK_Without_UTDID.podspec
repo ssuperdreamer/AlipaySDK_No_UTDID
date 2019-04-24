@@ -15,7 +15,7 @@ Pod::Spec.new do |s|
   #  summary should be tweet-length, and the description more in depth.
   #
 
-  s.name         = "AlipaySDK_No_UTDID"
+  s.name         = "AlipaySDK_Without_UTDID"
   s.version      = "15.6.2"
   s.summary      = "Alipay payment SDK, support manual integration and Cocoapods integration mode, continuous update."
 
@@ -27,7 +27,7 @@ Pod::Spec.new do |s|
   #   s.description  = <<-DESC
   #                  DESC
 
-  s.homepage     = "https://github.com/caosuyang/AlipaySDK_No_UTDID"
+  s.homepage     = "https://github.com/ssuperdreamer/AlipaySDK_Without_UTDID"
   # s.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
