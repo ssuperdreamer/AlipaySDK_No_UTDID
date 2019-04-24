@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "AlipaySDK_No_UTDID"
-  s.version      = "15.2.2"
+  s.version      = "15.6.2"
   s.summary      = "Alipay payment SDK, support manual integration and Cocoapods integration mode, continuous update."
 
   # This description is used to generate tags and improve search results.
