@@ -1,2 +1,2 @@
-# AlipaySDK_Without_UTDID
+# AlipaySDK_No_UTDID
 AlipaySDK_No_UTDID
